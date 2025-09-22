@@ -60,7 +60,8 @@ Key aspects of experimentation included:
 - Detecting and removing outliers
 - Engineering time-based features
 
-**Example experiment table:**
+**Some experiments:**
+**NB**: All the Experiments are included in the Report
 
 | Exp | Model Type | Layers (Units)         | Activation | Dropout | Optimizer | Batch Size | Epochs | Scaled | RMSE    |
 |-----|------------|------------------------|-----------|---------|-----------|------------|--------|--------|---------|
