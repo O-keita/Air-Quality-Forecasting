@@ -32,3 +32,11 @@ Bidirectional LSTM (16 units, ReLU)
 ↓
 Dense(1) → PM2.5 prediction
 ```
+
+**clone Repo**
+```bash
+https://github.com/O-keita/Air-Quality-Forecasting.git
+```
+
+
+
